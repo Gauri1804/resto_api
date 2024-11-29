@@ -1,122 +1,142 @@
 [
   {
     "restaurant_id": 1,
-    "name": "The Gourmet Kitchen",
-    "location": "New York, NY",
-    "cuisine": "Italian",
+    "name": "Vandana Food Spice",
+    "location": "Rispana pul, Dehradun, India",
+    "cuisine": "Indian",
     "rating": 4.5,
     "menu": [
-      { "item": "Margherita Pizza", "price": 12.99 },
-      { "item": "Pasta Alfredo", "price": 14.99 },
-      { "item": "Tiramisu", "price": 6.99 }
-    ]
-  },
-  {
-    "restaurant_id": 2,
-    "name": "Sushi Central",
-    "location": "Los Angeles, CA",
-    "cuisine": "Japanese",
-    "rating": 4.8,
-    "menu": [
-      { "item": "California Roll", "price": 10.99 },
-      { "item": "Tuna Sashimi", "price": 15.99 },
-      { "item": "Miso Soup", "price": 3.99 }
-    ]
-  },
-  {
-    "restaurant_id": 3,
-    "name": "Curry House",
-    "location": "Chicago, IL",
-    "cuisine": "Indian",
-    "rating": 4.6,
-    "menu": [
       { "item": "Butter Chicken", "price": 13.99 },
-      { "item": "Garlic Naan", "price": 2.99 },
+      { "item": "Paneer Tikka", "price": 9.99 },
+      { "item": "Garlic Naan", "price": 3.99 },
+      { "item": "Biryani", "price": 14.99 },
       { "item": "Mango Lassi", "price": 4.99 }
     ]
   },
   {
+    "restaurant_id": 2,
+    "name": "Curry House",
+    "location": "Clocktower, Dehradun, India",
+    "cuisine": "Indian",
+    "rating": 4.7,
+    "menu": [
+      { "item": "Dal Makhani", "price": 11.99 },
+      { "item": "Chole Bhature", "price": 8.99 },
+      { "item": "Rogan Josh", "price": 15.99 },
+      { "item": "Aloo Paratha", "price": 6.99 },
+      { "item": "Gulab Jamun", "price": 3.99 }
+    ]
+  },
+  {
+    "restaurant_id": 3,
+    "name": "Spice Junction",
+    "location": "Sellakui, Dehradun, India",
+    "cuisine": "Indian",
+    "rating": 4.6,
+    "menu": [
+      { "item": "Tandoori Chicken", "price": 12.99 },
+      { "item": "Palak Paneer", "price": 11.49 },
+      { "item": "Vegetable Pulao", "price": 9.99 },
+      { "item": "Masala Dosa", "price": 7.99 },
+      { "item": "Lassi", "price": 4.50 }
+    ]
+  },
+  {
     "restaurant_id": 4,
-    "name": "Taco Fiesta",
-    "location": "Austin, TX",
-    "cuisine": "Mexican",
+    "name": "Pram Nagar Diner",
+    "location": "Pram Nagar, Dehradun, India",
+    "cuisine": "Indian",
     "rating": 4.4,
     "menu": [
-      { "item": "Tacos al Pastor", "price": 8.99 },
-      { "item": "Chicken Quesadilla", "price": 9.99 },
-      { "item": "Guacamole and Chips", "price": 6.99 }
+      { "item": "Hyderabadi Biryani", "price": 16.99 },
+      { "item": "Kadhai Paneer", "price": 13.49 },
+      { "item": "Tandoori Roti", "price": 2.99 },
+      { "item": "Chana Masala", "price": 10.99 },
+      { "item": "Samosa", "price": 4.49 }
     ]
   },
   {
     "restaurant_id": 5,
-    "name": "Bistro Paris",
-    "location": "San Francisco, CA",
-    "cuisine": "French",
-    "rating": 4.7,
+    "name": "Dehradun Tandoor",
+    "location": "clock tower, Dehradun, India",
+    "cuisine": "Indian",
+    "rating": 4.8,
     "menu": [
-      { "item": "Croissant", "price": 3.50 },
-      { "item": "Beef Bourguignon", "price": 18.99 },
-      { "item": "Crème Brûlée", "price": 7.99 }
+      { "item": "Shahi Paneer", "price": 14.99 },
+      { "item": "Kebabs", "price": 10.99 },
+      { "item": "Naan", "price": 3.50 },
+      { "item": "Chana Bhatura", "price": 9.99 },
+      { "item": "Gajar Halwa", "price": 5.99 }
     ]
   },
   {
     "restaurant_id": 6,
-    "name": "Vegan Delights",
-    "location": "Portland, OR",
-    "cuisine": "Vegan",
-    "rating": 4.6,
+    "name": "Dehradun Dhaba",
+    "location": "Dehradun, India",
+    "cuisine": "Indian",
+    "rating": 4.2,
     "menu": [
-      { "item": "Avocado Toast", "price": 9.99 },
-      { "item": "Vegan Burger", "price": 12.99 },
-      { "item": "Almond Milk Latte", "price": 4.99 }
+      { "item": "Amritsari Kulcha", "price": 6.99 },
+      { "item": "Aloo Gobi", "price": 8.99 },
+      { "item": "Lassi", "price": 4.50 },
+      { "item": "Kachori", "price": 3.99 },
+      { "item": "Gulab Jamun", "price": 2.99 }
     ]
   },
   {
     "restaurant_id": 7,
-    "name": "Steakhouse Prime",
-    "location": "Dallas, TX",
-    "cuisine": "Steakhouse",
-    "rating": 4.7,
+    "name": "Punjabi Kitchen",
+    "location": "Sidhuwala, Dehradun, India",
+    "cuisine": "Indian",
+    "rating": 4.5,
     "menu": [
-      { "item": "Ribeye Steak", "price": 29.99 },
-      { "item": "Mashed Potatoes", "price": 5.99 },
-      { "item": "Caesar Salad", "price": 7.99 }
+      { "item": "Pindi Chole", "price": 9.49 },
+      { "item": "Sarson Da Saag", "price": 11.99 },
+      { "item": "Makki Di Roti", "price": 4.50 },
+      { "item": "Butter Chicken", "price": 12.99 },
+      { "item": "Gajar Ka Halwa", "price": 5.99 }
     ]
   },
   {
     "restaurant_id": 8,
-    "name": "Pho Paradise",
-    "location": "Seattle, WA",
-    "cuisine": "Vietnamese",
-    "rating": 4.5,
+    "name": "Biryani House",
+    "location": "Clocktower, Dehradun, India",
+    "cuisine": "Indian",
+    "rating": 4.6,
     "menu": [
-      { "item": "Beef Pho", "price": 10.99 },
-      { "item": "Spring Rolls", "price": 6.99 },
-      { "item": "Vietnamese Coffee", "price": 3.99 }
+      { "item": "Biryani", "price": 15.99 },
+      { "item": "Chicken Korma", "price": 13.99 },
+      { "item": "Naan", "price": 3.99 },
+      { "item": "Haleem", "price": 14.49 },
+      { "item": "Raita", "price": 3.49 }
     ]
   },
   {
     "restaurant_id": 9,
-    "name": "Burger Hub",
-    "location": "Las Vegas, NV",
-    "cuisine": "American",
+    "name": "Curry Point",
+    "location": "Pram Nagar, Dehradun, India",
+    "cuisine": "Indian",
     "rating": 4.3,
     "menu": [
-      { "item": "Classic Cheeseburger", "price": 11.99 },
-      { "item": "Loaded Fries", "price": 6.99 },
-      { "item": "Milkshake", "price": 4.99 }
+      { "item": "Mutton Rogan Josh", "price": 16.99 },
+      { "item": "Tandoori Chicken", "price": 13.99 },
+      { "item": "Palak Chaat", "price": 5.99 },
+      { "item": "Pineapple Raita", "price": 4.99 },
+      { "item": "Kheer", "price": 3.99 }
     ]
   },
   {
     "restaurant_id": 10,
-    "name": "Mediterraneo",
-    "location": "Miami, FL",
-    "cuisine": "Mediterranean",
-    "rating": 4.6,
+    "name": "Food Corner",
+    "location": "Sellakui, Dehradun, India",
+    "cuisine": "Indian",
+    "rating": 4.4,
     "menu": [
-      { "item": "Falafel Wrap", "price": 8.99 },
-      { "item": "Hummus Platter", "price": 9.99 },
-      { "item": "Baklava", "price": 4.99 }
+      { "item": "Chole Bhature", "price": 8.99 },
+      { "item": "Gulab Jamun", "price": 3.99 },
+      { "item": "Tandoori Roti", "price": 2.49 },
+      { "item": "Shahi Paneer", "price": 12.99 },
+      { "item": "Mango Lassi", "price": 4.50 }
     ]
   }
 ]
