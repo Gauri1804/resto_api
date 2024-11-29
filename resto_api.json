@@ -1,0 +1,122 @@
+[
+  {
+    "restaurant_id": 1,
+    "name": "The Gourmet Kitchen",
+    "location": "New York, NY",
+    "cuisine": "Italian",
+    "rating": 4.5,
+    "menu": [
+      { "item": "Margherita Pizza", "price": 12.99 },
+      { "item": "Pasta Alfredo", "price": 14.99 },
+      { "item": "Tiramisu", "price": 6.99 }
+    ]
+  },
+  {
+    "restaurant_id": 2,
+    "name": "Sushi Central",
+    "location": "Los Angeles, CA",
+    "cuisine": "Japanese",
+    "rating": 4.8,
+    "menu": [
+      { "item": "California Roll", "price": 10.99 },
+      { "item": "Tuna Sashimi", "price": 15.99 },
+      { "item": "Miso Soup", "price": 3.99 }
+    ]
+  },
+  {
+    "restaurant_id": 3,
+    "name": "Curry House",
+    "location": "Chicago, IL",
+    "cuisine": "Indian",
+    "rating": 4.6,
+    "menu": [
+      { "item": "Butter Chicken", "price": 13.99 },
+      { "item": "Garlic Naan", "price": 2.99 },
+      { "item": "Mango Lassi", "price": 4.99 }
+    ]
+  },
+  {
+    "restaurant_id": 4,
+    "name": "Taco Fiesta",
+    "location": "Austin, TX",
+    "cuisine": "Mexican",
+    "rating": 4.4,
+    "menu": [
+      { "item": "Tacos al Pastor", "price": 8.99 },
+      { "item": "Chicken Quesadilla", "price": 9.99 },
+      { "item": "Guacamole and Chips", "price": 6.99 }
+    ]
+  },
+  {
+    "restaurant_id": 5,
+    "name": "Bistro Paris",
+    "location": "San Francisco, CA",
+    "cuisine": "French",
+    "rating": 4.7,
+    "menu": [
+      { "item": "Croissant", "price": 3.50 },
+      { "item": "Beef Bourguignon", "price": 18.99 },
+      { "item": "Crème Brûlée", "price": 7.99 }
+    ]
+  },
+  {
+    "restaurant_id": 6,
+    "name": "Vegan Delights",
+    "location": "Portland, OR",
+    "cuisine": "Vegan",
+    "rating": 4.6,
+    "menu": [
+      { "item": "Avocado Toast", "price": 9.99 },
+      { "item": "Vegan Burger", "price": 12.99 },
+      { "item": "Almond Milk Latte", "price": 4.99 }
+    ]
+  },
+  {
+    "restaurant_id": 7,
+    "name": "Steakhouse Prime",
+    "location": "Dallas, TX",
+    "cuisine": "Steakhouse",
+    "rating": 4.7,
+    "menu": [
+      { "item": "Ribeye Steak", "price": 29.99 },
+      { "item": "Mashed Potatoes", "price": 5.99 },
+      { "item": "Caesar Salad", "price": 7.99 }
+    ]
+  },
+  {
+    "restaurant_id": 8,
+    "name": "Pho Paradise",
+    "location": "Seattle, WA",
+    "cuisine": "Vietnamese",
+    "rating": 4.5,
+    "menu": [
+      { "item": "Beef Pho", "price": 10.99 },
+      { "item": "Spring Rolls", "price": 6.99 },
+      { "item": "Vietnamese Coffee", "price": 3.99 }
+    ]
+  },
+  {
+    "restaurant_id": 9,
+    "name": "Burger Hub",
+    "location": "Las Vegas, NV",
+    "cuisine": "American",
+    "rating": 4.3,
+    "menu": [
+      { "item": "Classic Cheeseburger", "price": 11.99 },
+      { "item": "Loaded Fries", "price": 6.99 },
+      { "item": "Milkshake", "price": 4.99 }
+    ]
+  },
+  {
+    "restaurant_id": 10,
+    "name": "Mediterraneo",
+    "location": "Miami, FL",
+    "cuisine": "Mediterranean",
+    "rating": 4.6,
+    "menu": [
+      { "item": "Falafel Wrap", "price": 8.99 },
+      { "item": "Hummus Platter", "price": 9.99 },
+      { "item": "Baklava", "price": 4.99 }
+    ]
+  }
+]
